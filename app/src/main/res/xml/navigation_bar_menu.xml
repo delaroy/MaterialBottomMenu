@@ -1,0 +1,18 @@
+<tabs>
+    <tab
+        id="@+id/tab_calls"
+        icon="@drawable/ic_calls"
+        title="Calls"
+        activeColor="@color/colorAccent"
+        />
+    <tab
+        id="@+id/tab_groups"
+        icon="@drawable/ic_groups"
+        title="Groups"
+        activeColor="@color/colorAccent" />
+    <tab
+        id="@+id/tab_chats"
+        icon="@drawable/ic_chats"
+        title="Chats"
+        activeColor="@color/colorAccent"/>
+</tabs>
